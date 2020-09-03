@@ -109,14 +109,4 @@ footer{
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
-
-/* hsl(, 43%, 93%); */
- /* <style>
-      .attribution {
-        font-size: 11px;
-        text-align: center;
-      }
-      .attribution a {
-        color: hsl(228, 45%, 44%);
-      } */
-
+}
